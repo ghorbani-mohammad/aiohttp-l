@@ -1,0 +1,6 @@
+postgres:
+  database: poll
+  user: username
+  password: password
+  host: localhost
+  port: 5432
