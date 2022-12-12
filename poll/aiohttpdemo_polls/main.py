@@ -4,5 +4,5 @@ from routes import setup_routes
 
 app = web.Application()
 setup_routes(app)
-app['config'] = config
+app["config"] = config
 web.run_app(app)
